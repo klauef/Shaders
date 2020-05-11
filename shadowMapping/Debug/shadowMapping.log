@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\paul\desktop\shader\opengl-shader\shadowmapping\main.cpp(184): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\opengl-shader\shadowmapping\main.cpp(191): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\opengl-shader\shadowmapping\main.cpp(224): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\paul\desktop\shader\opengl-shader\shadowmapping\main.cpp(279): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\opengl-shader\shadowmapping\main.cpp(280): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\opengl-shader\shadowmapping\main.cpp(284): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\opengl-shader\shadowmapping\main.cpp(285): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\opengl-shader\shadowmapping\main.cpp(287): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\opengl-shader\shadowmapping\main.cpp(288): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\opengl-shader\shadowmapping\main.cpp(295): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\opengl-shader\shadowmapping\main.cpp(309): warning C4305: 'argument' : troncation de 'double' à 'float'
+  shadowMapping.vcxproj -> C:\Users\Paul\Desktop\Shader\OpenGL-Shader\Debug\shadowMapping.exe

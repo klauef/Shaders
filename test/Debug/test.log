@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (test.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  main.cpp
+c:\users\paul\desktop\shader\shaders\test\main.cpp(128): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\shaders\test\main.cpp(131): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\shaders\test\main.cpp(150): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\paul\desktop\shader\shaders\test\main.cpp(203): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\shaders\test\main.cpp(204): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\shaders\test\main.cpp(208): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\shaders\test\main.cpp(209): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\shaders\test\main.cpp(211): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\shaders\test\main.cpp(212): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\shaders\test\main.cpp(219): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\paul\desktop\shader\shaders\test\main.cpp(233): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\paul\desktop\shader\shaders\test\main.cpp(256): warning C4305: 'argument' : troncation de 'double' à 'float'
+LINK : warning LNK4098: conflit entre la bibliothèque par défaut 'MSVCRT' et les autres bibliothèques ; utilisez /NODEFAULTLIB:library
+  test.vcxproj -> C:\Users\Paul\Desktop\Shader\Shaders\Debug\geometric shader.exe
